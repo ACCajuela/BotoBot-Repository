@@ -1,1 +1,1 @@
-BotoBot is a task manager bot to use in my academic servers. Feel free to reply its funcionality or even help me improve it. :D
+BotoBot is a task manager bot to use in my academic servers. Feel free to reply its funcionality or even help me improve it. :D (|Discontinued)
